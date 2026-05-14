@@ -1,1 +1,23 @@
-MDs/
+# Compiled classes
+*.class
+
+# Common Java build output
+out/
+bin/
+build/
+target/
+
+# Packaged artifacts
+*.jar
+*.war
+*.ear
+
+# IDE metadata
+.idea/
+.vscode/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
